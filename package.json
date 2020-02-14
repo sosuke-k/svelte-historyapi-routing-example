@@ -1,12 +1,13 @@
 {
-  "name": "smui-example-rollup",
+  "name": "svelte-historyapi-routing-example",
   "version": "1.0.0",
-  "description": "An example project implementing Svelte Material UI with Rollup.",
+  "description": "An example project implementing Svelte SPA with Mobile Apps-like transitions using History API.",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js",
     "serve": "serve .",
     "watch": "rollup -c rollup.config.js --watch",
+    "deploy": "gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hunter Perrin <hperrin@gmail.com>",
@@ -14,6 +15,8 @@
   "devDependencies": {
     "@material/typography": "^3.1.0",
     "@smui/button": "^1.0.0-beta.10",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1",
     "rollup": "^1.20.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",

@@ -1,6 +1,8 @@
 ## Svelte History API Routing Example
 An example project implementing Svelte SPA with Mobile Apps-like transitions using History API.
 
+Please see [demo](https://sosuke-k.github.io/svelte-historyapi-routing-example/).
+
 ## Dependencies
 
 - [Svelte](https://svelte.dev/)
