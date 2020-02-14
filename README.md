@@ -30,3 +30,4 @@ limitations under the License.
 This example is based on the following example that is distributed in the Apache License 2.0.
 
     https://github.com/hperrin/smui-example-rollup
+    (https://github.com/sosuke-k/svelte-historyapi-routing-example/tree/6d3004e9ef62b5d1066d4588c321069104ce4f37)
