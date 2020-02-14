@@ -2,7 +2,7 @@
   "name": "svelte-historyapi-routing-example",
   "version": "1.0.0",
   "description": "An example project implementing Svelte SPA with Mobile Apps-like transitions using History API.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js",
     "serve": "serve .",

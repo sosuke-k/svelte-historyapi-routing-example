@@ -4,7 +4,7 @@ import commonjs from 'rollup-plugin-commonjs';
 import postcss from 'rollup-plugin-postcss';
 
 module.exports = {
-  input: 'index.js',
+  input: 'src/index.js',
   output: {
     file: 'public/build/bundle.js',
     format: 'iife',
