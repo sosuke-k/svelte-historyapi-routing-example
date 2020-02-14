@@ -5924,7 +5924,7 @@ var app = (function () {
 
   	return {
   		c() {
-  			t = text("Test");
+  			t = text("Two");
   		},
   		m(target, anchor) {
   			insert(target, t, anchor);
