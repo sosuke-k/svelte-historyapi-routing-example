@@ -29,7 +29,7 @@
     <Row>
       <Section>
         <IconButton class="material-icons" on:click={_ => go("/one")}>arrow_back_ios</IconButton>
-        <Title>Test</Title>
+        <Title>Two</Title>
       </Section>
     </Row>
   </span>
